@@ -1,1 +1,1 @@
-<? php header ('Location:/index.html');new site>
+<? php header ('Location:/index.html');?>
